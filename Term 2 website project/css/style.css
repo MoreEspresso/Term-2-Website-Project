@@ -16,6 +16,11 @@
 				height: auto;
 			}
 			
+			h1 {
+				text-shadow: 2px 2px 5px red;
+				text-align: centre;
+			}
+			
 			a {
 				color: red;
 			}
@@ -36,6 +41,7 @@
 			
 			img {
 				 border: 5px solid black;
+				 box-shadow: 5px 5px 10px grey;
 			}
 			
 			
